@@ -9,7 +9,3 @@ export default {
   components: {demo}
 }
 </script>
-
-<style>
-
-</style>
